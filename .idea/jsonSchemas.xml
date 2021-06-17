@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsonSchemaMappingsProjectConfiguration">
+    <state>
+      <map>
+        <entry key="OpenAPI 2.0">
+          <value>
+            <SchemaInfo>
+              <option name="name" value="OpenAPI 2.0" />
+              <option name="relativePathToSchema" value="../../../Library/Application Support/JetBrains/IdeaIC2021.1/plugins/intellij-openapi/lib/intellij-openapi-1.15.jar!/schema/openapi-2.0.json" />
+              <option name="applicationDefined" value="true" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="petstore.yaml" />
+                  </Item>
+                </list>
+              </option>
+            </SchemaInfo>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</project>
